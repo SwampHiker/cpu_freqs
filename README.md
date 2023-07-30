@@ -10,7 +10,7 @@ Requirments:
 - curses package (should be in the standard library for Linux, see windows-curses for Windows)
 
 Command line arguments:
--v, --vertical    puts 'PERCENTAGE' graph under 'FREQUENCY' graph (by default, it goes right);
--s, --single      uses single pallete for all graphs, useful when terminal doesn't let the script register enough colors (tty);
--d, --default     forces the script to use default terminal colors (tty/Emacs vterm);
--b, --black       basically, light themed --default [If, for some reason, black and white colors are swapped, this option may serve as a substitute for --default].
+- -v, --vertical    puts 'PERCENTAGE' graph under 'FREQUENCY' graph (by default, it goes right);
+- -s, --single      uses single pallete for all graphs, useful when terminal doesn't let the script register enough colors (tty);
+- -d, --default     forces the script to use default terminal colors (tty/Emacs vterm);
+- -b, --black       basically, light themed --default [If, for some reason, black and white colors are swapped, this option may serve as a substitute for --default].
