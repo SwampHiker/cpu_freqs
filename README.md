@@ -3,8 +3,6 @@ Python script for CPU frequencies monitoring.
 
 This script is graphical (NCurses) lighweight CPU %/frequency, RAM, network and disk usage monitor. Works in a terminal (graphical/tty).
 
-[cpu_freqs running in Emacs vterm terminal emulator](images/emacs.png)
-
 Requirments:
 - Python 3 (tested on 3.10 and 3.11),
 - psutil package
@@ -15,3 +13,7 @@ Command line arguments:
 - -s, --single      uses single pallete for all graphs, useful when terminal doesn't let the script register enough colors (tty);
 - -d, --default     forces the script to use default terminal colors (tty/Emacs vterm);
 - -b, --black       basically, light themed --default [If, for some reason, black and white colors are swapped, this option may serve as a substitute for --default].
+
+
+# cpu_freqs running in Emacs vterm terminal emulator
+![cpu_freqs running in Emacs vterm terminal emulator](images/emacs.png)
