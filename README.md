@@ -3,7 +3,7 @@ Python script for CPU frequencies monitoring.
 
 This script is graphical (NCurses) lighweight CPU %/frequency, RAM, network and disk usage monitor. Works in a terminal (graphical/tty).
 
-![cpu_freqs running in Emacs vterm terminal emulator](images/emacs.png)
+[cpu_freqs running in Emacs vterm terminal emulator](images/emacs.png)
 
 Requirments:
 - Python 3 (tested on 3.10 and 3.11),
