@@ -15,5 +15,6 @@ Command line arguments:
 - -b, --black       basically, light themed --default [If, for some reason, black and white colors are swapped, this option may serve as a substitute for --default].
 
 
-# cpu_freqs running in Emacs vterm terminal emulator
+# Examples
+cpu_freqs running in Emacs vterm terminal emulator
 ![cpu_freqs running in Emacs vterm terminal emulator](images/emacs.png)
