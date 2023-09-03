@@ -17,6 +17,6 @@ Command line arguments:
 
 # Examples
 default cpu_freqs in a terminal
-[default cpu_freqs in a terminal](images/term.png)
+![default cpu_freqs in a terminal](images/term.png)
 cpu_freqs running in Emacs vterm terminal emulator
 ![cpu_freqs running in Emacs vterm terminal emulator](images/emacs.png)
